@@ -405,6 +405,5 @@ Found an issue? Have a suggestion?
 
 ---
 
-**Made with ❤️ by [Your Name]**
 
 **[⬆ Back to Top](#-real-time-language-translator)**
